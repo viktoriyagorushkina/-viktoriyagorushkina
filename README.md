@@ -82,7 +82,7 @@
 
 <ul>
   <li><a href="https://github.com/viktoriyagorushkina/web_testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">Тестирование API</a> – REST и SOAP через Postman</li>
+  <li><a href="https://github.com/viktoriyagorushkina/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – запросы и скрипты для проверки БД</li>
   <li><a href="https://github.com/osukhorukova/mobile_testing">Тестировнаие приложений на Android</a> – ручные тесты и отчёты об ошибках</li>
   <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – имитация ответов и проверка сети</li>
