@@ -84,6 +84,6 @@
   <li><a href="https://github.com/viktoriyagorushkina/web_testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/viktoriyagorushkina/API_testing">Тестирование API</a> – REST и SOAP через Postman</li>
   <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – запросы и скрипты для проверки БД</li>
-  <li><a href="https://drive.google.com/file/d/16diy1-nkXJ-x6dCyIs4gIcxoth2E4znI/view?usp=drive_link">Bash</a> – комманды bash</li>
+  <li><a href="https://drive.google.com/drive/folders/1CpL01kUWKJrqUhYPFgnNmZhjFXxS0Ji3?usp=drive_link">Bash</a> – комманды bash</li>
   <li><a href="https://github.com/osukhorukova/git">Git</a> – основные команды для управления версиями</li>
 </ul>
